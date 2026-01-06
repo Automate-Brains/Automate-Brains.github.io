@@ -40,5 +40,12 @@ export const servicesData = [
     title: "Image AI Services",
     description: "Advanced computer vision for image recognition, medical imaging, and generative content creation.",
     features: ["OCR & Data Extraction", "Facial Recognition", "Medical Imaging Analysis", "Generative Image Editing"]
+  },
+    {
+    id: 6,
+    icon: "fa-ai-analytics",
+    title: "Advanced AI Analytics",
+    description: "Transform database and audio records into actionable insights using advanced AI analytics.",
+    features: ["SQL Analyzer", "High Volume Audio Analytics", "System Performance Analytics and Dashboards"]
   }
 ];
