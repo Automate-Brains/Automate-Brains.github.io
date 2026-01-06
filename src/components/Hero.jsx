@@ -20,14 +20,14 @@ const Hero = () => {
               <i className="fa-solid fa-robot"></i>
               <div>
                 <strong>AI Agents</strong>
-                <span>Autonomous Workflow</span>
+                <span> Autonomous Workflow</span>
               </div>
             </div>
             <div className="floating-badge badge-2">
               <i className="fa-solid fa-eye"></i>
               <div>
                 <strong>Vision AI</strong>
-                <span>Real-time Analysis</span>
+                <span> Real-time Analysis</span>
               </div>
             </div>
           </div>
