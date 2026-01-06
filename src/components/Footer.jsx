@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-grid">
           <div className="footer-about">
             <div className="logo">
-              <i className="fa-solid fa-brain"></i> NexAI
+              <i className="fa-solid fa-brain"></i> automate brains
             </div>
             <p>Empowering enterprises with cutting-edge artificial intelligence solutions, from custom model training to autonomous agents.</p>
           </div>
@@ -39,7 +39,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2023 NexAI Solutions. All rights reserved.</p>
+          <p>&copy; 2023 automate brains Solutions. All rights reserved.</p>
         </div>
       </div>
     </footer>
