@@ -41,11 +41,18 @@ export const servicesData = [
     description: "Advanced computer vision for image recognition, medical imaging, and generative content creation.",
     features: ["OCR & Data Extraction", "Facial Recognition", "Medical Imaging Analysis", "Generative Image Editing"]
   },
-    {
-    id: 6,
+  {
+    id: 7,
     icon: "fa-ai-analytics",
     title: "Advanced AI Analytics",
     description: "Transform database and audio records into actionable insights using advanced AI analytics.",
     features: ["SQL Analyzer", "High Volume Audio Analytics", "System Performance Analytics and Dashboards"]
+  },
+  {
+    id: 8,
+    icon: "fa-meta-automations",
+    title: "Meta Automations on your Social Media Platforms",
+    description: "Push your Marketing Automations to next level with AI optimizations, Conversion APIs, etc. for getting higher lead quality.",
+    features: ["Meta APIs", "AI Marketing Automations", "Lead-to-CRM", "Conversions API"]
   }
 ];
